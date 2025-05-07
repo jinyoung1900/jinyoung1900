@@ -1,4 +1,4 @@
-# About-Me
+## About Me
 
 Welcome! I'm JinYoung from South Korea, and this is my portfolio. You can click on the link below to go to each section. 
 
