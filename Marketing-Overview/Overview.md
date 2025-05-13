@@ -5,7 +5,7 @@ A practical overview of my work connecting player behavior, community insight, a
 ---
 
 <details>
-<summary> <strong>Driving Player Engagement</strong></summary>
+<summary> <strong>Marketing & Community Operations</strong></summary>
 
 > At first, Discord was just a space for reporting game bugs and occasional core fan talks. However, we turned it into a dev feedback engine where we pushed updates based on community contests and votes. As I gained more experience and time went on, knowing more about the consumers naturally made me move onto platform management, ads management, and content creation for higher RoI. 
 
