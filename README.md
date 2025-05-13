@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm JinYoung, </h1>
 
 <h3 align="center">Full stack marketer and data analyst from South Korea, living in Finland</h3>
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 - Currently working on **Business Analytics in Gaming**
 
