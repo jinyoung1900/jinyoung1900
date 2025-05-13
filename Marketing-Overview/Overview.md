@@ -7,12 +7,12 @@ A practical overview of my work connecting player behavior, community insight, a
 <details>
 <summary> <strong>Driving Player Engagement</strong></summary>
 
-> At first, Discord was just a space for reporting game bugs and occasional core fan talks. However, we turned it into a dev feedback engine where we pushed updates based on community contests and votes.
+> At first, Discord was just a space for reporting game bugs and occasional core fan talks. However, we turned it into a dev feedback engine where we pushed updates based on community contests and votes. As I gained more experience and time went on, knowing more about the consumers naturally made me move onto platform management, ads management, and content creation for higher RoI. 
 
 - **📈 Cave Digger 2 Community Growth**  
   Built and expanded the community from around 200 to over 1,000 members during the launch window. This became a key source of qualitative insight and player retention.
 
-- **📱 Multi-Platform Presence**  
+- **📱 Community Presence**  
   Managed and moderated communities on Steam, Reddit, and Discord. Maintained transparency, delivered fast support, and shaped a tone that players respected.
 
 - **🔄 Feedback Loops**  
@@ -20,6 +20,12 @@ A practical overview of my work connecting player behavior, community insight, a
 
 - **💬 Community Creation Consulting**  
   Consulted several new game communities and developers when launching their own Discord. From basic mindset to bot installation and custom templates.
+
+- **🧰 Platform Experience**  
+  Versed in Steamworks, Meta Horizon (formerly Oculus Developer Hub), and PlayStation Partners platforms. Experience managing game listings, publishing workflows, AB testing, and platform specific marketing materials.e
+
+- **🎯 Paid Advertising Campaigns**  
+  Experiences on running ad campaigns across Meta, Google, and TikTok Ads. Specialized in TikTok, optimizing short-form creatives and targeting for reach, engagement, and conversion. Heavily involved in strategy, budgeting, and analytics across all platforms.
 
 </details>
 
