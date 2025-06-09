@@ -23,8 +23,8 @@
 ### [📄 CV](CV/JinYoung_Jeon_CV_2025.pdf)
 ### [🚀 Marketing Deeds](Marketing-Overview/Overview.md)
 ### [📊 PowerBI Dashboards](PowerBI-Dashboard-Portfolio/PowerBI-Dashboards.md)
-### [🎓 Thesis Showcase](Graduation-Thesis-Showcase/Readme.md)
 ### [🍱 Oulu Eats Prototype](https://github.com/jinyoung1900/oulu-eats-project)
+### [🎓 Thesis Showcase](Graduation-Thesis-Showcase/Readme.md)
 
 
 ## Contact me
