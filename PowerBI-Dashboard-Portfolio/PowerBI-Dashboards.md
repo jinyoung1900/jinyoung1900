@@ -2,8 +2,7 @@
 
 #### 🔷 Project 1: Corporate Financial Report  
 
-
-![s](https://github.com/user-attachments/assets/656fad1e-dafb-41cf-89ca-1350b74f5eb7)
+![project1](https://github.com/user-attachments/assets/80052e29-7de6-4747-8bab-f0e423c9b25f)
 
 
 One of the earliest models I made. Displays corporate financial report for a fictional company from 2014 to 2015 in PowerBI.
@@ -16,7 +15,8 @@ It also contains a light written analyis on the bottom left that writes what the
 
 #### 🔷 Project 2: Steam Game Analysis  
 
-![SteamPowerBI project](https://github.com/user-attachments/assets/c637ecd8-a8f8-4486-9c68-eea5943b563c)
+![steam](https://github.com/user-attachments/assets/e61e6cfd-8b37-4ec6-b759-652b9af27403)
+
 
 More of a personal project than the previous one, from data cleaning to dashboard creation. Used steam game data that went up until 2019 before change in Steam privacy policy. 
 
