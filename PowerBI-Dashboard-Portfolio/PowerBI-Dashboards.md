@@ -3,7 +3,7 @@
 #### 🔷 Project 1: Corporate Financial Report  
 
 
-![Corporate-Financial-Report](https://github.com/user-attachments/assets/656fad1e-dafb-41cf-89ca-1350b74f5eb7)
+![s](https://github.com/user-attachments/assets/656fad1e-dafb-41cf-89ca-1350b74f5eb7)
 
 
 One of the earliest models I made. Displays corporate financial report for a fictional company from 2014 to 2015 in PowerBI.
