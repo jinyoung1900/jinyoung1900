@@ -27,6 +27,13 @@ A practical overview of my work connecting player behavior, community insight, a
 - **🎯 Paid Advertising Campaigns**  
   Experiences on running ad campaigns across Meta, Google, and TikTok Ads. Specialized in TikTok, optimizing short-form creatives and targeting for reach, engagement, and conversion. Heavily involved in strategy, budgeting, and analytics across all platforms.
 
+- **ℹ️ Press Kit Cration using Notion**
+  From press material creation to organising and distribution
+  PiratesVR: https://vrkiwi2.notion.site/Pirates-VR-Jolly-Roger-PR-Pack-1136c9cb99bc8085bee9ce879ea14982
+
+   ![notion1](https://github.com/user-attachments/assets/0788b759-55d4-4108-b6c5-a7cab89af674)
+
+
 </details>
 
 ---
