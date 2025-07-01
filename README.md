@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JinYoung, </h1>
 
-<h3 align="center">Full stack marketer and data analyst from South Korea, living in Finland (I like the weather) </h3>
+<h3 align="center">Full stack marketer and data analyst from South Korea, living in Finland. </h3>
 
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
@@ -18,16 +18,29 @@
 <p align="left">
 </p>
 
-## Projects  
+## Professional Portfolio
 
-### [📄 CV](CV/JinYoung_Jeon_CV_2025.pdf)
-### [🚀 Marketing Deeds](Marketing-Overview/Overview.md)
-### [📊 PowerBI Dashboards](PowerBI-Dashboard-Portfolio/PowerBI-Dashboards.md)
-### [🍱 Oulu Eats Prototype](https://github.com/jinyoung1900/oulu-eats-project)
-### [🎓 Thesis Showcase](Graduation-Thesis-Showcase/Readme.md)
+#### [📄 CV](CV/JinYoung_Jeon_CV_2025.pdf)
+#### [🚀 Marketing Deeds](Marketing-Overview/Overview.md)
+#### [📊 PowerBI Dashboards](PowerBI-Dashboard-Portfolio/PowerBI-Dashboards.md)
+#### [🍱 Oulu Eats Prototype](https://github.com/jinyoung1900/oulu-eats-project)
+#### [🎓 Thesis Showcase](Graduation-Thesis-Showcase/Readme.md)
+
+## Side Projects & Prototypes
+
+#### [🍱 Oulu Eats Prototype](https://github.com/jinyoung1900/oulu-eats-project)
+> Local food finder prototype for the Oulu region, built as a UX/market fit test
+
+#### [🧠 get-in-the-zone](https://github.com/jinyoung1900/get-in-the-zone)  
+> An Android app to help you break distraction loops and reclaim your focus.  
+> Designed to nudge behavior gently using behavioral economics, habit cues, and UI minimalism.
+
+#### [🥢 Matsal (맛살)](https://github.com/jinyoung1900/matsal)
+> Korean food rescue & surprise meal app  
+> 맛있게 살리는 한 끼, Matsal.
 
 
-## Contact me
+## Contacts
 <div align="left">
   <a href="https://www.linkedin.com/feed/?nis=true" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
