@@ -34,7 +34,7 @@
 > An Android app to help you break distraction loops and reclaim your focus.  
 > Designed to nudge behavior gently using behavioral economics, habit cues, and UI minimalism.
 
-#### [🥢 Matsal (맛살)](https://github.com/jinyoung1900/matsal)
+#### [🥢 Matsal (맛살)](https://github.com/jinyoung1900/Project-Matsal)
 > Korean food rescue & surprise meal app  
 > 맛있게 살리는 한 끼, Matsal.
 
