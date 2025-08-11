@@ -20,21 +20,21 @@
 
 ## Professional Portfolio
 
-#### [📄 CV](CV/JinYoung_Jeon_CV_2025.pdf)
-#### [🚀 Marketing Deeds](Marketing-Overview/Overview.md)
-#### [📊 PowerBI Dashboards](PowerBI-Dashboard-Portfolio/PowerBI-Dashboards.md)
-#### [🎓 Thesis Showcase](Graduation-Thesis-Showcase/Readme.md)
+### [📄 CV](CV/JinYoung_Jeon_CV_2025.pdf)
+### [🚀 Marketing Deeds](Marketing-Overview/Overview.md)
+### [📊 PowerBI Dashboards](PowerBI-Dashboard-Portfolio/PowerBI-Dashboards.md)
+### [🎓 Thesis Showcase](Graduation-Thesis-Showcase/Readme.md)
 
 ## Side Projects & Prototypes
 
-#### [🍱 Oulu Eats Prototype](https://github.com/jinyoung1900/oulu-eats-project)
+### [🍱 Oulu Eats Prototype](https://github.com/jinyoung1900/oulu-eats-project)
 > Local food finder prototype for the Oulu region, built as a UX/market fit test
 
-#### [🧠 get-in-the-zone](https://github.com/jinyoung1900/get-in-the-zone)  
+### [🧠 get-in-the-zone](https://github.com/jinyoung1900/get-in-the-zone)  
 > An Android app to help you break distraction loops and reclaim your focus.  
 > Designed to nudge behavior gently using behavioral economics, habit cues, and UI minimalism.
 
-#### [🥢 Matsal (맛살)](https://github.com/jinyoung1900/Project-Matsal)
+### [🥢 Matsal (맛살)](https://github.com/jinyoung1900/Project-Matsal)
 > Korean food rescue & surprise meal app  
 > 맛있게 살리는 한 끼, Matsal.
 
