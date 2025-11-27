@@ -29,7 +29,7 @@ What I found more interesting is to figure out best price by genre by comparing 
 
 ---
 
-#### 🔷 Project 3: Data Visualisation course 
+#### 🔷 Project 3: Data Visualisation seminar project 
 
 ![data visualisation proj](https://github.com/user-attachments/assets/368352e1-12ad-4893-b8b6-71a6a5941e4b)
 
