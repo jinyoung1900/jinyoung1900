@@ -29,3 +29,20 @@ What I found more interesting is to figure out best price by genre by comparing 
 
 ---
 
+#### 🔷 Project 3: Data Visualisation course 
+
+![data visualisation proj](https://github.com/user-attachments/assets/368352e1-12ad-4893-b8b6-71a6a5941e4b)
+
+Quick one day project I did for Data Visaulisation course by Juuso Koponen
+
+Tried to visualise the popularity of games from 2000 to 2010 by sales and critic rating. 
+
+The point of this 2 day intense seminar was to learn about advanced visualisation methods, color grade, and theory behind using correct visualisation. 
+
+In here, by using pastel color and removing values, it helps to easily visualise contents without being distracting.  
+
+Bump chart, or wave chart since PwBI doesn't have one, were used in time vs sale price by genre. Bump chart was specifically developed from NYtimes to rate genres of movies that came out in specific year. 
+
+To summarise, it's good to 1) Draw a draft of visualsiation, 2) Prototype with apps such as RAW, and 3) Finish it using solution that is fitting. e.g. using Mapbox for map related infographics. 
+
+More on the course summary section: 
