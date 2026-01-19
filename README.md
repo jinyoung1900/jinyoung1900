@@ -18,7 +18,7 @@
 <p align="left">
 </p>
 
-## Professional Portfolio
+## Portfolio
 
 ### [📄 CV](CV/JinYoung_Jeon_CV_2025.pdf)
 ### [🚀 Marketing Deeds](Marketing-Overview/Overview.md)
