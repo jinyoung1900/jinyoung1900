@@ -22,28 +22,31 @@
 
 ### [📄 CV](CV/JinYoung_Jeon_CV_2025.pdf)
 ### [🚀 Marketing Deeds](Marketing-Overview/Overview.md)
-### [📊 PowerBI Dashboards](PowerBI-Dashboard-Portfolio/PowerBI-Dashboards.md)
+
 ### [🎓 Thesis Showcase](Graduation-Thesis-Showcase/Readme.md)
 
 
 ## Side Projects & Prototypes
 
+### [🥢 Matsal (맛살)](https://github.com/jinyoung1900/Project-Matsal)
+> Korean food rescue & surprise meal app  
+> 맛있게 살리는 한 끼, Matsal.
+
 ### [🍱 Oulu Eats Prototype](https://github.com/jinyoung1900/oulu-eats-project)
 > Local food finder prototype for the Oulu region, built as a UX/market fit test
+
+### [📊 PowerBI Dashboards](PowerBI-Dashboard-Portfolio/PowerBI-Dashboards.md)
+> Collection of PowerBI Dashbords 
 
 ### [🧠 get-in-the-zone](https://github.com/jinyoung1900/get-in-the-zone)  
 > An Android app to help you break distraction loops and reclaim your focus.  
 > Designed to nudge behavior gently using behavioral economics, habit cues, and UI minimalism.
 
-### [🥢 Matsal (맛살)](https://github.com/jinyoung1900/Project-Matsal)
-> Korean food rescue & surprise meal app  
-> 맛있게 살리는 한 끼, Matsal.
-
 ### [📖 PhD Lecture work collection](https://github.com/jinyoung1900/PhD_Lectures/blob/main/README.md)
 > Collection of University homeworks, summary notes, and learnings.
 
 ### [⚡ Vibe Coding Journey]()
->
+> Collection of apps using Antigravity
 
 
 ## Contacts
