@@ -24,7 +24,7 @@
 ### [🚀 Marketing Deeds](Marketing-Overview/Overview.md)
 ### [📊 PowerBI Dashboards](PowerBI-Dashboard-Portfolio/PowerBI-Dashboards.md)
 ### [🎓 Thesis Showcase](Graduation-Thesis-Showcase/Readme.md)
-### [📖 PhD Lecture work collection](PhD_Lectures/README.md)
+### [📖 PhD Lecture work collection](https://github.com/jinyoung1900/PhD_Lectures/blob/main/README.md)
 
 
 ## Side Projects & Prototypes
