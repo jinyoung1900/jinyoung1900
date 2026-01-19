@@ -5,7 +5,7 @@
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
-- Currently working on **Business Analytics in Gaming**
+- Currently studying PhD in **Business Analytics** at University of Oulu
 
 - Learning **Statistical modelling for behaviour prediction, and how to merge behavioral economics models like Prospect Theory with machine learning**
 
