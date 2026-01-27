@@ -45,7 +45,7 @@
 ### [📖 PhD Lecture work collection](https://github.com/jinyoung1900/PhD_Lectures/blob/main/README.md)
 > Collection of University homeworks, summary notes, and learnings.
 
-### [⚡ Vibe Coding Journey]()
+### [⚡ Google Antigravity ZeroG lab](https://github.com/jinyoung1900/Google-Antigravity-ZeroG-Lab)
 > Collection of apps using Antigravity
 
 
