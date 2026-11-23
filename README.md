@@ -35,15 +35,15 @@
 ### [🍱 Oulu Eats Prototype](https://github.com/jinyoung1900/oulu-eats-project)
 > Local food finder prototype for the Oulu region, built as a UX/market fit test
 
+### [⚡ Google Antigravity ZeroG lab](https://github.com/jinyoung1900/Google-Antigravity-ZeroG-Lab)
+> Collection of apps using Antigravity
+
 ### [📊 PowerBI Dashboards](PowerBI-Dashboard-Portfolio/PowerBI-Dashboards.md)
 > Collection of PowerBI Dashbords 
 
 ### [🧠 get-in-the-zone](https://github.com/jinyoung1900/get-in-the-zone)  
 > An Android app to help you break distraction loops and reclaim your focus.  
 > Designed to nudge behavior gently using behavioral economics, habit cues, and UI minimalism.
-
-### [⚡ Google Antigravity ZeroG lab](https://github.com/jinyoung1900/Google-Antigravity-ZeroG-Lab)
-> Collection of apps using Antigravity
 
 
 ## Contacts
