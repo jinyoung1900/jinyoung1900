@@ -42,9 +42,6 @@
 > An Android app to help you break distraction loops and reclaim your focus.  
 > Designed to nudge behavior gently using behavioral economics, habit cues, and UI minimalism.
 
-### [📖 PhD Lecture work collection](https://github.com/jinyoung1900/PhD_Lectures/blob/main/README.md)
-> Collection of University homeworks, summary notes, and learnings.
-
 ### [⚡ Google Antigravity ZeroG lab](https://github.com/jinyoung1900/Google-Antigravity-ZeroG-Lab)
 > Collection of apps using Antigravity
 
