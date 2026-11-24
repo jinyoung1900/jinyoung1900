@@ -28,15 +28,15 @@
 
 ## Side Projects & Prototypes
 
+### [⚡ Google Antigravity ZeroG lab](https://github.com/jinyoung1900/Google-Antigravity-ZeroG-Lab)
+> Collection of apps using Antigravity
+
 ### [🥢 Matsal (맛살)](https://github.com/jinyoung1900/Project-Matsal)
 > Korean food rescue & surprise meal app  
 > 맛있게 살리는 한 끼, Matsal.
 
 ### [🍱 Oulu Eats Prototype](https://github.com/jinyoung1900/oulu-eats-project)
 > Local food finder prototype for the Oulu region, built as a UX/market fit test
-
-### [⚡ Google Antigravity ZeroG lab](https://github.com/jinyoung1900/Google-Antigravity-ZeroG-Lab)
-> Collection of apps using Antigravity
 
 ### [📊 PowerBI Dashboards](PowerBI-Dashboard-Portfolio/PowerBI-Dashboards.md)
 > Collection of PowerBI Dashbords 
@@ -48,17 +48,16 @@
 
 ## Contacts
 <div align="left">
-  <a href="https://www.linkedin.com/feed/?nis=true" target="_blank">
+  <a href="https://www.linkedin.com/in/jackjyjeon/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="jinyoung1900@gmail.com" target="_blank">
+  <a href="mailto:jinyoung1900@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="@jacky7667" target="_blank">
+  <a href="https://discord.com/users/ronininini" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
 
 <br clear="both">
 
