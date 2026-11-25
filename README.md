@@ -37,7 +37,7 @@
 ### [🥢 Matsal (맛살)](https://github.com/jinyoung1900/Project-Matsal)
 > Korean food rescue & surprise meal app 맛있게 살리는 한 끼, Matsal.
 
-> No AI was used. Made with [@anne](https://github.com/Nanatsuu)
+> No AI was used. UI/UX, designs, and icons made by [@anne](https://github.com/Nanatsuu)
 
 ### [🍱 Oulu Eats Prototype](https://github.com/jinyoung1900/oulu-eats-project)
 > Local food finder prototype for the Oulu region, built as a UX/market fit test
