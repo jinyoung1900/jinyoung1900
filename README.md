@@ -31,6 +31,9 @@
 ### [⚡ Google Antigravity ZeroG lab](https://github.com/jinyoung1900/Google-Antigravity-ZeroG-Lab)
 > Collection of apps using Antigravity
 
+### [✒️ Claude Anthology Lab](https://github.com/jinyoung1900/Claude-Anthology-Lab)
+> Collection of apps using Claude
+
 ### [🥢 Matsal (맛살)](https://github.com/jinyoung1900/Project-Matsal)
 > Korean food rescue & surprise meal app  
 > 맛있게 살리는 한 끼, Matsal.
